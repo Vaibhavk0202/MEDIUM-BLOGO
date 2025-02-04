@@ -1,7 +1,3 @@
-Here's a sample README.md file for your blogging app:
-
----
-
 # Blogging App
 
 This is a blogging application built with the following tech stack:
